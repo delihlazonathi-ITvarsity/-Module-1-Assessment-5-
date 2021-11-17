@@ -1,0 +1,29 @@
+#menu{
+    width:100%;
+    text-align: center;
+    font-size: 100%;
+    width:100%;
+    height:40px;
+    background-color: cornflowerblue;
+    font-style: italic;
+    padding-top: 12px;
+    
+
+#menu{a
+    color:#ffffff;
+    font-family: Impact; fantasy;
+    font-size: 100px;
+    font-style: italic;
+    color: cornflowerblue;
+    font-weight: 800px;
+      
+
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+     color: #5077bd;
+}
+
